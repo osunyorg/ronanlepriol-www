@@ -1,6 +1,33 @@
 ---
 title: Menu principal
 items:
+- title: Projets
+  slug: projets
+  target: "/projets/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
+- title: Expositions
+  slug: expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/exhibitions"
+  file: content/fr/exhibitions/_index.html
+- title: Agenda
+  slug: agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/events"
+  file: content/fr/events/_index.html
 - title: Personnes
   slug: personnes
   target: "/personnes/"
@@ -28,31 +55,4 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Agenda
-  slug: agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/events"
-  file: content/fr/events/_index.html
-- title: Projets
-  slug: projets
-  target: "/projets/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
-- title: Expositions
-  slug: expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
 
