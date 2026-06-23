@@ -1,15 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Agenda
-  slug: agenda
-  target: "/agenda/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/events"
-  file: content/fr/events/_index.html
 - title: Personnes
   slug: personnes
   target: "/personnes/"
@@ -55,4 +46,13 @@ items:
   descendants_targets: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
+- title: Agenda
+  slug: agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/events"
+  file: content/fr/events/_index.html
 
